@@ -1,8 +1,0 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/apply-job-agent-backend/.vs/apply-job-agent-backend/FileContentIndex
-/apply-job-agent-backend/.vs/apply-job-agent-backend/v17
-/apply-job-agent-backend/.vs/slnx.sqlite
-/apply-job-agent-backend/.vs/VSWorkspaceState.json
